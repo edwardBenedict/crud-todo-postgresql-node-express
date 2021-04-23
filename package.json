@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/edwardBenedict/crud-todo-postgresql-node-express/issues"
   },
-  "homepage": "https://github.com/edwardBenedict/crud-todo-postgresql-node-express#readme"
+  "homepage": "https://github.com/edwardBenedict/crud-todo-postgresql-node-express#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.6.0"
+  }
 }
