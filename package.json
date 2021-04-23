@@ -1,0 +1,19 @@
+{
+  "name": "crud-todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwardBenedict/crud-todo-postgresql-node-express.git"
+  },
+  "author": "ed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edwardBenedict/crud-todo-postgresql-node-express/issues"
+  },
+  "homepage": "https://github.com/edwardBenedict/crud-todo-postgresql-node-express#readme"
+}
